@@ -39,38 +39,7 @@ SQL · Normalización · Diseño de esquemas
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 Linux · Principios SOLID · APIs RESTful
 
-
-## Proyectos destacados
-
- **[Formulario_Contacto](https://github.com/JulioN02/Formulario_Contacto)**  
-  Formulario profesional con validación en tiempo real  
-  → JavaScript
-
- **[Registro_Base](https://github.com/JulioN02/Registro_Base)**  
-  Ejemplo de registro de usuario + validaciones frontend  
-  → JavaScript
-
- **[GeneradorPDF](https://github.com/JulioN02/GeneradorPDF)**  
-  Generador de facturas PDF personalizables  
-  → JavaScript
-
- **[PeluqueriaCanina](https://github.com/JulioN02/PeluqueriaCanina)**  
-  Sistema de gestión con base de datos relacional  
-  → Java + SQL
-
- **[Concesionaria](https://github.com/JulioN02/Concesionaria)**  
-  Aplicación de administración de vehículos  
-  → Java
-
- **[LOGIN](https://github.com/JulioN02/LOGIN)**  
-  Sistema básico de autenticación  
-  → Java
-
-Más repositorios en mi perfil → enfocado en construir codigo funcional y escalable.
-
 ## Actividad en GitHub
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=JulioN02&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioN02&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
