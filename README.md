@@ -1,4 +1,4 @@
-# Julio Manuel Nieto Martínez
+# Julio Manuel Martínez - J-Soft Solutions
 
 **Ingeniero de Sistemas en formación**  
 **Fullstack Junior Developer** (React + Node.js)  
@@ -67,8 +67,6 @@ Linux · Principios SOLID · APIs RESTful
   → Java
 
 Más repositorios en mi perfil → enfocado en construir codigo funcional y escalable.
-
----
 
 ## Actividad en GitHub
 
