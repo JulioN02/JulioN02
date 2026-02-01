@@ -39,14 +39,6 @@ SQL · Normalización · Diseño de esquemas
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 Linux · Principios SOLID · APIs RESTful
 
-## Actividad en GitHub
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioN02&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=JulioN02&theme=radical&hide_border=true)
-
-(Metricas como complemento — el foco esta en calidad y aprendizaje constante)
-
 ## Contacto
 
 - 📧 **julionieto213@gmail.com**  
