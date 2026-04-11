@@ -1,13 +1,13 @@
 # Julio Manuel Martínez - J-Soft Solutions
 
-**Ingeniero de Sistemas en formación**  
-**Fullstack Junior Developer** (React + Node.js)  
+**Ingeniero de Sistemas & Redes**  
+**Desarrollador de Software** (React + Node.js)  
 Ex-Coordinador Logístico | Optimización de procesos y datos
 
 
 ## Sobre mí
 
-Fullstack Junior (React, Node.js, TypeScript)  
+Fullstack Semi-Senior (React, Node.js, TypeScript)  
 Ingeniero de Sistemas en formación  
 +7 años en logística → mentalidad analítica y optimización de procesos  
 
